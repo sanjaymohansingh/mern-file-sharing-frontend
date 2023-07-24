@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URI = "https://mern-file-sharing-backend.onrender.com/";
+const API_URI = "https://mern-file-sharing-backend.onrender.com";
 
 export const uploadFile = async (data) => {
   try {
